@@ -1,0 +1,20 @@
+{
+    "cloudStorageProviders": [
+        {
+            "appName": "Google Drive",
+            "processName": "GoogleDriveFS",
+            "targetFolderPath": "E:\\My Drive\\your_google_drive_folder"
+        },
+        {
+            "appName": "OneDrive",
+            "processName": "OneDrive",
+            "targetFolderPath": "C:\\Users\\YourUserName\\OneDrive\\Documents\\your_one_drive_folder"
+        },
+        {
+            "appName": "iCloud",
+            "processName": "iCloudDrive",
+            "targetFolderPath": "D:\\iCloud\\iCloudDrive\\your_icloud_folder"
+        }
+    ],
+    "folderPath": "D:\\the\\folder\\to\\be\\backed\\up"
+}
